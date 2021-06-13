@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ariabagaswara23
-- 🌱 I’m currently learning Code Igniter 4
+Hi there!
+My Name is Aria Bagaswara
 
 <!---
 ariabagaswara23/ariabagaswara23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
