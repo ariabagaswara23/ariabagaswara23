@@ -7,11 +7,15 @@ My Name is Aria Bagaswara, I'm a fresh graduate from SMK Negeri 1 Cimahi Softwar
 
 #### Language and Tools:
 
+<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"></code>
+<code><img alt="CodeIgniter" width="26px" src="https://seeklogo.com/images/C/codeigniter-logo-BDF3D666E7-seeklogo.com.png" /></code>
+<code><img height="25" src="https://cdn.svgporn.com/logos/laravel.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
+<code><img alt="MySQL" width="26px" src="https://cdn.svgporn.com/logos/mysql.svg" /></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/sass.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
