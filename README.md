@@ -20,7 +20,7 @@ My Name is Aria Bagaswara, I'm a fresh graduate from SMK Negeri 1 Cimahi Softwar
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="25" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 
-<br>
+
 ## Github Statistic
 <p align="left">
 <a href="https://github.com/dimasmds">
