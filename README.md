@@ -21,7 +21,10 @@ My Name is Aria Bagaswara, I'm a fresh graduate from SMK Negeri 1 Cimahi Softwar
 <code><img height="25" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 
 <br>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=ariabagaswara23&show_icons=true" height=180 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariabagaswara23&layout=compact" height=180 />
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ariabagaswara23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ariabagaswara23&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
