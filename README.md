@@ -2,7 +2,7 @@
 
 My Name is Aria Bagaswara, I'm a fresh graduate from SMK Negeri 1 Cimahi Software Engineering. I'm very interested to Web Development.
 
-- 📖 I’m currently learning ReactJS and VueJS.
+- 📖 I’m currently learning Progressive Web Apps.
 - 💬 Feel free to ask me about anything and everything!
 
 #### Language and Tools:
