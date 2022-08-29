@@ -25,7 +25,11 @@ My Name is Aria Bagaswara, I'm a fresh graduate from SMK Negeri 1 Cimahi Softwar
 ## Github Statistic
 <p align="left">
 <a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ariabagaswara23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ariabagaswara23&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ariabagaswara23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariabagaswara23&theme=tokyonight"/>
 </a>
 </p>
+
+## My Latest Update
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ariabagaswara23&repo=FooDeez-Website&theme=tokyonight)](https://github.com/ariabagaswara23/FooDeez-Website)
+</div>
