@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32px">
 
-My Name is Aria Bagaswara, I'm a fresh graduate from SMK Negeri 1 Cimahi Software Engineering. I'm very interested to Web Development.
+My Name is Aria Bagaswara, I'm a Frontend Developer based in Cimahi.
 
 - 💬 Feel free to ask me about anything and everything!
 
